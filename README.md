@@ -1,5 +1,5 @@
 # tas-rw-hook
-An experiment of mapping CreateFile into memory, (hopefully) will be useful for TASing
+An experiment of mapping CreateFile into memory, which (hopefully) will be useful for TASing
 ## Hooking
  - CreateFileA/CreateFileW
  - CloseHandle
